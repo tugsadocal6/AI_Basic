@@ -15,7 +15,8 @@
 				"C:/Users/tugsa/Documents/Unreal Projects/AI_PerceptionSystem/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/tugsa/Documents/Unreal Projects/AI_PerceptionSystem/Content/Characters/AI/BT_NPC.uasset",
 				"C:/Users/tugsa/Documents/Unreal Projects/AI_PerceptionSystem/Content/Characters/AI/BB_NPC.uasset",
-				"C:/Users/tugsa/Documents/Unreal Projects/AI_PerceptionSystem/Content/Characters/AI/Tasks/BTTask_MoveRandomLocation.uasset"
+				"C:/Users/tugsa/Documents/Unreal Projects/AI_PerceptionSystem/Content/Characters/AI/Tasks/BTTask_MoveRandomLocation.uasset",
+				"C:/Users/tugsa/Documents/Unreal Projects/AI_PerceptionSystem/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
 			]
 		}
 	]
