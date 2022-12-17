@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/tugsa/Documents/Unreal Projects/AI_PerceptionSystem/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/tugsa/Documents/Unreal Projects/AI_PerceptionSystem/Content/Characters/AI/BP_NPC.uasset",
+				"C:/Users/tugsa/Documents/Unreal Projects/AI_PerceptionSystem/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/tugsa/Documents/Unreal Projects/AI_PerceptionSystem/Content/Characters/AI/AI_NPC.uasset",
+				"C:/Users/tugsa/Documents/Unreal Projects/AI_PerceptionSystem/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/RW/TLZX920741NO86E6HEJCK2.uasset",
+				"C:/Users/tugsa/Documents/Unreal Projects/AI_PerceptionSystem/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/L9/7XLMWCHRNOP70G9N62KX21.uasset",
+				"C:/Users/tugsa/Documents/Unreal Projects/AI_PerceptionSystem/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/QS/UYCANZ8QKHERL9TR5BXUIY.uasset",
+				"C:/Users/tugsa/Documents/Unreal Projects/AI_PerceptionSystem/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/tugsa/Documents/Unreal Projects/AI_PerceptionSystem/Content/Characters/AI/BT_NPC.uasset"
+			]
+		}
+	]
+}
