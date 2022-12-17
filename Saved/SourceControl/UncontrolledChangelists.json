@@ -13,7 +13,9 @@
 				"C:/Users/tugsa/Documents/Unreal Projects/AI_PerceptionSystem/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/L9/7XLMWCHRNOP70G9N62KX21.uasset",
 				"C:/Users/tugsa/Documents/Unreal Projects/AI_PerceptionSystem/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/QS/UYCANZ8QKHERL9TR5BXUIY.uasset",
 				"C:/Users/tugsa/Documents/Unreal Projects/AI_PerceptionSystem/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Users/tugsa/Documents/Unreal Projects/AI_PerceptionSystem/Content/Characters/AI/BT_NPC.uasset"
+				"C:/Users/tugsa/Documents/Unreal Projects/AI_PerceptionSystem/Content/Characters/AI/BT_NPC.uasset",
+				"C:/Users/tugsa/Documents/Unreal Projects/AI_PerceptionSystem/Content/Characters/AI/BB_NPC.uasset",
+				"C:/Users/tugsa/Documents/Unreal Projects/AI_PerceptionSystem/Content/Characters/AI/Tasks/BTTask_MoveRandomLocation.uasset"
 			]
 		}
 	]
